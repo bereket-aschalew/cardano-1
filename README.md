@@ -47,3 +47,9 @@ npm start
 - Never commit your seed phrase or private keys to version control
 - Use environment variables for sensitive information
 - Consider implementing additional security measures for production use
+
+- Name-bereket aschalew
+- school=rofam academy
+- skills-html,css,js,python and react
+- 
+
